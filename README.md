@@ -4,8 +4,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 &nbsp; Estudando **Tecnologia da Informação** na <a href="http://www.faeterj-petropolis.edu.br/site/">FAETERJ - Petrópolis</a>.
+- 💼 &nbsp; Trabalhando como **Monitorador de Sistemas** na <a href="https://www.casadoalemao.com.br/">Casa do Alemão</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
