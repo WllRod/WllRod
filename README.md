@@ -53,6 +53,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: William Rodrigues](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: William Rodrigues](https://img.shields.io/badge/-William%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-rodrigues-687581233)](https://www.linkedin.com/in/william-rodrigues-687581233)
 [![Gmail Badge](https://img.shields.io/badge/-wll_rodrigues@outlook.com-006bed?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:wll_rodrigues@outlook.com)](mailto:wll_rodrigues@outlook.com)
 [![GitHub William Rodrigues]( https://img.shields.io/github/followers/WllRod?label=follow&style=social)](https://github.com/WllRod)
