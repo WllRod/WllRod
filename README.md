@@ -49,6 +49,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WllRod&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/WllRod">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WllRod&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/WllRod">
     <img
       align="center"
       height="150em"
