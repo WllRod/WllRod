@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Tecnologia da Informação** na <a href="http://www.faeterj-petropolis.edu.br/site/">FAETERJ - Petrópolis</a>.
-- 💼 &nbsp; Trabalhando como **Monitorador de Sistemas** na <a href="https://www.casadoalemao.com.br/">Casa do Alemão</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor .Net** na <a href="https://assist.org.br/">ASSIST - RJ</a>
 - 🌱 &nbsp; Aprendendo mais sobre **C# e .Net**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
